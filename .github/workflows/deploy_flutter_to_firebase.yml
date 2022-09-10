@@ -2,7 +2,7 @@ name: Deploy Flutter to Firebase Hosting
 
 'on':
   push:
-    branches: [ master ]
+    branches: [ main ]
     
     
 jobs:
